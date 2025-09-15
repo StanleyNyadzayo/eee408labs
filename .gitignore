@@ -1,0 +1,9 @@
+# Ignore lecture PDFs
+*.pdf
+
+# Ignore lab / coursework folders
+Labs/
+coursework2/
+
+
+
